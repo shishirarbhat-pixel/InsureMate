@@ -1,6 +1,6 @@
-# 🛡️ InsurMate - AI-Powered Insurance Claim Assistant
+# 🛡️ InsureMate - AI-Powered Insurance Claim Assistant
 
-**InsurMate** is a comprehensive AI-powered insurance claim assistant that helps users navigate through complex insurance claim processes. The application supports Vehicle, Health, and Home insurance claims with multilingual support (English/Hindi) and integrates with multiple AI providers for intelligent assistance.
+**InsureMate** is a comprehensive AI-powered insurance claim assistant that helps users navigate through complex insurance claim processes. The application supports Vehicle, Health, and Home insurance claims with multilingual support (English/Hindi) and integrates with multiple AI providers for intelligent assistance.
 
 **Note** : Ollama runs locally so it wont run when on the deployed link. The deployed link is to **test the UI**.
 
@@ -128,7 +128,7 @@ streamlit run insurance_claim_assistant.py
 ### Access the Application
 - Open your web browser
 - Navigate to `http://localhost:8501`
-- The application should load with the InsurMate interface
+- The application should load with the InsureMate interface
 
 ## 📖 Usage Guide
 
@@ -309,4 +309,4 @@ A: The Streamlit interface is responsive and works on mobile browsers.
 
 ---
 
-**InsurMate** - Making insurance claims simple and accessible for everyone! 🛡️✨
+**InsureMate** - Making insurance claims simple and accessible for everyone! 🛡️✨
