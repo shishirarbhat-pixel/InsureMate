@@ -1,7 +1,7 @@
 import os
 import requests
 import io
-import fitz  # PyMuPDF
+import fitz  
 import streamlit as st
 from dotenv import load_dotenv
 from streamlit_chat import message
